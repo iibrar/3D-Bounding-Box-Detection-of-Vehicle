@@ -7,7 +7,7 @@ Goemetric constraints provided by 2D bounding box
 
 Recovery of stable and accurate 3D bounding box around a vehicle
 
-# Research paper
+# Releated research paper
 3D Bounding Box Estimation using Deep Learning & Geometry (From George Mason University in 2017)
 
 https://arxiv.org/abs/1612.00496
